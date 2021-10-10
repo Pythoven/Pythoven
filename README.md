@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pythoven
 - 👀 I’m interested in Software and APP development 
-- 🌱 I’m currently learning Fullstack develpoment and strengthening my skills in C++.  
+- 🌱 I’m currently learning Fullstack develpoment, Python and strengthening my skills in C++.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Phone number/Email (Message me)
 
